@@ -1,0 +1,11 @@
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\bin\Debug\tabela de busca.exe.config
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\bin\Debug\tabela de busca.exe
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\bin\Debug\tabela de busca.pdb
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela de busca.csproj.AssemblyReference.cache
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela de busca.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela_de_busca.Form1.resources
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela_de_busca.Properties.Resources.resources
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela de busca.csproj.GenerateResource.cache
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela de busca.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela de busca.exe
+D:\Visual Studio Repositorios\tabela de busca\tabela de busca\obj\Debug\tabela de busca.pdb
